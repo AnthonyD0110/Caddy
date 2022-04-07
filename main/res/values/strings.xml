@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Caddy</string>
+    <string name="newAjout">Ajouter</string>
+    <string name="newAjoutProduct">Ajouter un produit</string>
+    <string name="actionRemove">Tout supprimer</string>
+    <string name="listZero">Liste prédéfinie</string>
+    <string name="listOne">Liste de course</string>
+    <string name="byCategory">Catégorie</string>
+</resources>
